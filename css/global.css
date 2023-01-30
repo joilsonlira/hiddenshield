@@ -28,6 +28,7 @@ body{
 }
 a,h1,h2,small,p{
     color: white;
+    margin: 10px 0;
 }
 #main_container{
     margin: 0 auto;
@@ -103,6 +104,9 @@ a,h1,h2,small,p{
 }
 #start_section{
     flex-direction: row-reverse;
+}
+strong{
+    color: white;
 }
 
 .section_container{
