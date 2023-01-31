@@ -170,6 +170,7 @@ strong{
 
 #third_section{
     flex-direction: column;
+    height: auto;
 }
 .infectados_box{
     display: flex;
